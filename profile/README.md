@@ -71,4 +71,6 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [ronin-exploits-examples]: https://github.com/ronin-rb/ronin-exploits#examples
 [ronin-vulns]: https://github.com/ronin-rb/ronin-vulns#readme
 [ronin-vulns-synopsis]: https://github.com/ronin-rb/ronin-vulns#synopsis
+[docker]: https://github.com/ronin-rb/docker#readme
+[scripts]: https://github.com/ronin-rb/scripts#readme
 [ronin-rb.github.io]: https://github.com/ronin-rb/ronin-rb.github.io
