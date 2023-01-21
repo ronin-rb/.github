@@ -68,12 +68,13 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [ronin-web-user_agents]: https://github.com/ronin-rb/ronin-web-user_agents#readme
 [ronin-code-asm]: https://github.com/ronin-rb/ronin-code-asm#readme
 [ronin-code-sql]: https://github.com/ronin-rb/ronin-code-sql#readme
+[ronin-vulns]: https://github.com/ronin-rb/ronin-vulns#readme
+[ronin-vulns-synopsis]: https://github.com/ronin-rb/ronin-vulns#synopsis
+[ronin-post_ex]: https://github.com/ronin-rb/ronin-post_ex#readme
 [ronin-payloads]: https://github.com/ronin-rb/ronin-payloads#readme
 [ronin-exploits]: https://github.com/ronin-rb/ronin-exploits#readme
 [ronin-exploits-synopsis]: https://github.com/ronin-rb/ronin-exploits#synopsis
 [ronin-exploits-examples]: https://github.com/ronin-rb/ronin-exploits#examples
-[ronin-vulns]: https://github.com/ronin-rb/ronin-vulns#readme
-[ronin-vulns-synopsis]: https://github.com/ronin-rb/ronin-vulns#synopsis
 [docker]: https://github.com/ronin-rb/docker#readme
 [scripts]: https://github.com/ronin-rb/scripts#readme
 [ronin-rb.github.io]: https://github.com/ronin-rb/ronin-rb.github.io
