@@ -38,6 +38,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 * [ronin-vulns] - Tests URLs for Local File Inclusion (LFI),
   Remote File Inclusion (RFI), SQL injection (SQLi), Cross Site Scripting (XSS),
   Server Side Template Injection (SSTI), and Open Redirects.
+* [ronin-post_ex] - Ruby API for Post-Exploitation.
 * [ronin-payloads] - A Ruby micro-framework for writing and running exploit
   payloads.
 * [ronin-exploits] - A Ruby micro-framework for writing and running exploits
