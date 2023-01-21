@@ -25,6 +25,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 * [ronin] - A Ruby toolkit for security research and development.
 * [ronin-core] - A core library for all ronin libraries.
 * [ronin-repos] - Third-party git repository support for ronin.
+* [ronin-fuzzer] - A highly configurable fuzzing library and CLI for Ruby.
 * [ronin-db] - A common database library for managing and querying security
   data.
 * [ronin-db-activerecord] - ActiveRecord backend for the Ronin Database.
