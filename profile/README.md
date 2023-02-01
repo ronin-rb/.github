@@ -1,4 +1,5 @@
-![Ronin](./profile/header.svg)
+![Ronin](./profile/header.svg#gh-light-mode-only)
+![Ronin](./profile/header_dark_mode.svg#gh-dark-mode-only)
 
 # ronin-rb
 
