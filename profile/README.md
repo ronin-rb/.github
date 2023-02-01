@@ -1,3 +1,5 @@
+![Ronin](./profile/header.svg)
+
 # ronin-rb
 
 * [Website](https://ronin-rb.dev/)
