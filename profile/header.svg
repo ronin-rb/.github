@@ -12,6 +12,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style>
+  path { fill: #000000; }
+  @media (prefers-color-scheme: dark) {
+    path { fill: #ffffff; }
+  }
+  </style>
   <title
      id="title371">Ronin (Mastodon Header)</title>
   <defs
