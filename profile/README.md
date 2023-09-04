@@ -33,6 +33,13 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 * [ronin-db] - A common database library for managing and querying security
   data.
 * [ronin-db-activerecord] - ActiveRecord backend for the Ronin Database.
+* [ronin-listener] - A small CLI utility for receiving exfiltrated data over
+  DNS or HTTP.
+* [ronin-listener-dns] - A DNS server for receiving exfiltrated data sent via
+  DNS queries. ronin-listener-dns can be used to test for XML external entity
+  (XXE) injection
+* [ronin-listener-http] - A HTTP server for receiving exfiltrated data sent via
+  HTTP requests.
 * [ronin-web] - A collection of common web security commands and libraries.
 * [ronin-web-server] - A custom Ruby web server based on Sinatra.
 * [ronin-web-spider] - A collection of common web spidering routines.
@@ -68,6 +75,12 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [ronin-db-synopsis]: https://github.com/ronin-rb/ronin-db#synopsis
 [ronin-db-activerecord]: https://github.com/ronin-rb/ronin-db-activerecord#readme
 [ronin-fuzzer]: https://github.com/ronin-rb/ronin-fuzzer#readme
+[ronin-listener]: https://github.com/ronin-rb/ronin-listener#readme
+[ronin-listener-synopsis]: https://github.com/ronin-rb/ronin-listener#synopsis
+[ronin-listener-dns]: https://github.com/ronin-rb/ronin-listener-dns#readme
+[ronin-listener-dns-examples]: https://github.com/ronin-rb/ronin-listener-dns#examples
+[ronin-listener-http]: https://github.com/ronin-rb/ronin-listener-http#readme
+[ronin-listener-http-examples]: https://github.com/ronin-rb/ronin-listener-http#examples
 [ronin-web]: https://github.com/ronin-rb/ronin-web#readme
 [ronin-web-server]: https://github.com/ronin-rb/ronin-web-server#readme
 [ronin-web-spider]: https://github.com/ronin-rb/ronin-web-spider#readme
