@@ -42,6 +42,8 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 * [ronin-listener-http] - A HTTP server for receiving exfiltrated data sent via
   HTTP requests.
 * [ronin-web] - A collection of common web security commands and libraries.
+* [ronin-web-browser] - [WIP] A Ruby library for automating the Chrome web
+  browser.
 * [ronin-web-server] - A custom Ruby web server based on Sinatra.
 * [ronin-web-spider] - A collection of common web spidering routines.
 * [ronin-web-user_agents] - Generates random but realistic User-Agent strings.
@@ -86,6 +88,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [ronin-listener-http]: https://github.com/ronin-rb/ronin-listener-http#readme
 [ronin-listener-http-examples]: https://github.com/ronin-rb/ronin-listener-http#examples
 [ronin-web]: https://github.com/ronin-rb/ronin-web#readme
+[ronin-web-browser]: https://github.com/ronin-rb/ronin-web-browser#readme
 [ronin-web-server]: https://github.com/ronin-rb/ronin-web-server#readme
 [ronin-web-spider]: https://github.com/ronin-rb/ronin-web-spider#readme
 [ronin-web-user_agents]: https://github.com/ronin-rb/ronin-web-user_agents#readme
