@@ -33,6 +33,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 * [ronin-db] - A common database library for managing and querying security
   data.
 * [ronin-db-activerecord] - ActiveRecord backend for the Ronin Database.
+* [ronin-dns-proxy] - A configurable DNS proxy server library.
 * [ronin-listener] - A small CLI utility for receiving exfiltrated data over
   DNS or HTTP.
 * [ronin-listener-dns] - A DNS server for receiving exfiltrated data sent via
@@ -74,6 +75,9 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [ronin-db]: https://github.com/ronin-rb/ronin-db#readme
 [ronin-db-synopsis]: https://github.com/ronin-rb/ronin-db#synopsis
 [ronin-db-activerecord]: https://github.com/ronin-rb/ronin-db-activerecord#readme
+[ronin-dns]: https://github.com/ronin-rb/ronin-dns#readme
+[ronin-dns-synopsis]: https://github.com/ronin-rb/ronin-dns#synopsis
+[ronin-dns-examples]: https://github.com/ronin-rb/ronin-dns#examples
 [ronin-fuzzer]: https://github.com/ronin-rb/ronin-fuzzer#readme
 [ronin-listener]: https://github.com/ronin-rb/ronin-listener#readme
 [ronin-listener-synopsis]: https://github.com/ronin-rb/ronin-listener#synopsis
