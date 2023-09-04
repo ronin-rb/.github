@@ -47,6 +47,9 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
   payloads.
 * [ronin-exploits] - A Ruby micro-framework for writing and running exploits
   and payloads.
+* [ronin-wordlists] - [WIP] A library and tool for managing wordlists.
+* [ronin-recon] - [WIP] A micro-framework and tool for performing
+  reconnaissance.
 * [docker] - `Dockerfile`s for the `ronin` docker images.
 * [scripts] - The `ronin-install.sh` installer script and the `ronin-dev.sh`
   development environment setup script.
@@ -78,6 +81,12 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [ronin-exploits]: https://github.com/ronin-rb/ronin-exploits#readme
 [ronin-exploits-synopsis]: https://github.com/ronin-rb/ronin-exploits#synopsis
 [ronin-exploits-examples]: https://github.com/ronin-rb/ronin-exploits#examples
+[ronin-wordlists]: https://github.com/ronin-rb/ronin-wordlists#readme
+[ronin-wordlists-synopsis]: https://github.com/ronin-rb/ronin-wordlists#synopsis
+[ronin-wordlists-examples]: https://github.com/ronin-rb/ronin-wordlists#examples
+[ronin-recon]: https://github.com/ronin-rb/ronin-recon#readme
+[ronin-recon-synopsis]: https://github.com/ronin-rb/ronin-recon#synopsis
+[ronin-recon-examples]: https://github.com/ronin-rb/ronin-recon#examples
 [docker]: https://github.com/ronin-rb/docker#readme
 [scripts]: https://github.com/ronin-rb/scripts#readme
 [ronin-rb.github.io]: https://github.com/ronin-rb/ronin-rb.github.io
