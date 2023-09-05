@@ -5,7 +5,6 @@
 
 * [Website](https://ronin-rb.dev/)
 * [Discord](https://discord.gg/6WAb3PsVX9) |
-  [Twitter](https://twitter.com/ronin_rb) |
   [Mastodon](https://infosec.exchange/@ronin_rb)
 
 ## Description
