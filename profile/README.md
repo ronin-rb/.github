@@ -57,6 +57,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 * [ronin-exploits] - A Ruby micro-framework for writing and running exploits
   and payloads.
 * [ronin-wordlists] - [WIP] A library and tool for managing wordlists.
+* [ronin-brute] - [WIP] A micro-framework and tool for bruteforcing credentials.
 * [ronin-nmap] - [WIP] A Ruby library for working with nmap.
 * [ronin-masscan] - [WIP] A Ruby library for working with masscan.
 * [ronin-recon] - [WIP] A micro-framework and tool for performing
@@ -105,6 +106,9 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [ronin-wordlists]: https://github.com/ronin-rb/ronin-wordlists#readme
 [ronin-wordlists-synopsis]: https://github.com/ronin-rb/ronin-wordlists#synopsis
 [ronin-wordlists-examples]: https://github.com/ronin-rb/ronin-wordlists#examples
+[ronin-brute]: https://github.com/ronin-rb/ronin-brute#readme
+[ronin-brute-synopsis]: https://github.com/ronin-rb/ronin-brute#synopsis
+[ronin-brute-examples]: https://github.com/ronin-rb/ronin-brute#examples
 [ronin-nmap]: https://github.com/ronin-rb/ronin-nmap#readme
 [ronin-nmap-synopsis]: https://github.com/ronin-rb/ronin-nmap-synopsis#readme
 [ronin-nmap-examples]: https://github.com/ronin-rb/ronin-nmap-examples#readme
