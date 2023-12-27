@@ -25,7 +25,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 ## Repositories
 
 * [ronin] - A Ruby toolkit for security research and development.
-* [ronin-support] - A support library for Ronin.
+* [ronin-support] - A support library for ronin-rb.
 * [ronin-support-web] - [WIP] A web support library for ronin-rb.
 * [ronin-core] - A core library for all ronin libraries.
 * [ronin-repos] - Third-party git repository support for ronin.
