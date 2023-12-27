@@ -52,6 +52,8 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 * [ronin-vulns] - Tests URLs for Local File Inclusion (LFI),
   Remote File Inclusion (RFI), SQL injection (SQLi), Cross Site Scripting (XSS),
   Server Side Template Injection (SSTI), and Open Redirects.
+  * [vuln-apps] - A collection of simple vulnerable web apps for testing
+    vulnerability scanners or educational purposes.
 * [ronin-post_ex] - Ruby API for Post-Exploitation.
 * [ronin-payloads] - A Ruby micro-framework for writing and running exploit
   payloads.
@@ -59,6 +61,8 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
   and payloads.
 * [ronin-wordlists] - [WIP] A library and tool for managing wordlists.
 * [ronin-brute] - [WIP] A micro-framework and tool for bruteforcing credentials.
+  * [bruteforceables] - A collection of bruteforceable apps and servers.
+    Useful for testing network bruteforcers.
 * [ronin-nmap] - [WIP] A Ruby library for working with nmap.
 * [ronin-masscan] - [WIP] A Ruby library for working with masscan.
 * [ronin-recon] - [WIP] A micro-framework and tool for performing
@@ -100,6 +104,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [ronin-code-sql]: https://github.com/ronin-rb/ronin-code-sql#readme
 [ronin-vulns]: https://github.com/ronin-rb/ronin-vulns#readme
 [ronin-vulns-synopsis]: https://github.com/ronin-rb/ronin-vulns#synopsis
+[vuln-apps]: https://github.com/ronin-rb/vuln-apps#readme
 [ronin-post_ex]: https://github.com/ronin-rb/ronin-post_ex#readme
 [ronin-payloads]: https://github.com/ronin-rb/ronin-payloads#readme
 [ronin-exploits]: https://github.com/ronin-rb/ronin-exploits#readme
@@ -111,6 +116,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [ronin-brute]: https://github.com/ronin-rb/ronin-brute#readme
 [ronin-brute-synopsis]: https://github.com/ronin-rb/ronin-brute#synopsis
 [ronin-brute-examples]: https://github.com/ronin-rb/ronin-brute#examples
+[bruteforceables]: https://github.com/ronin-rb/bruteforceables#readme
 [ronin-nmap]: https://github.com/ronin-rb/ronin-nmap#readme
 [ronin-nmap-synopsis]: https://github.com/ronin-rb/ronin-nmap-synopsis#readme
 [ronin-nmap-examples]: https://github.com/ronin-rb/ronin-nmap-examples#readme
@@ -120,6 +126,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [ronin-recon]: https://github.com/ronin-rb/ronin-recon#readme
 [ronin-recon-synopsis]: https://github.com/ronin-rb/ronin-recon#synopsis
 [ronin-recon-examples]: https://github.com/ronin-rb/ronin-recon#examples
+[vuln-apps]: https://github.com/ronin-rb/vuln-apps#readme
 [docker]: https://github.com/ronin-rb/docker#readme
 [scripts]: https://github.com/ronin-rb/scripts#readme
 [ronin-rb.github.io]: https://github.com/ronin-rb/ronin-rb.github.io
