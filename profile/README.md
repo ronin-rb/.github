@@ -26,7 +26,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 
 * [ronin] - A Ruby toolkit for security research and development.
 * [ronin-support] - A support library for ronin-rb.
-* [ronin-support-web] - [WIP] A web support library for ronin-rb.
+* [ronin-support-web] - A web support library for ronin-rb.
 * [ronin-core] - A core library for all ronin libraries.
 * [ronin-repos] - Third-party git repository support for ronin.
 * [ronin-fuzzer] - A highly configurable fuzzing library and CLI for Ruby.
@@ -42,7 +42,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 * [ronin-listener-http] - A HTTP server for receiving exfiltrated data sent via
   HTTP requests.
 * [ronin-web] - A collection of common web security commands and libraries.
-* [ronin-web-browser] - [WIP] A Ruby library for automating the Chrome web
+* [ronin-web-browser] - A Ruby library for automating the Chrome web
   browser.
 * [ronin-web-server] - A custom Ruby web server based on Sinatra.
 * [ronin-web-spider] - A collection of common web spidering routines.
@@ -59,14 +59,13 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
   payloads.
 * [ronin-exploits] - A Ruby micro-framework for writing and running exploits
   and payloads.
-* [ronin-wordlists] - [WIP] A library and tool for managing wordlists.
+* [ronin-wordlists] - A library and tool for managing wordlists.
 * [ronin-brute] - [WIP] A micro-framework and tool for bruteforcing credentials.
   * [bruteforceables] - A collection of bruteforceable apps and servers.
     Useful for testing network bruteforcers.
-* [ronin-nmap] - [WIP] A Ruby library for working with nmap.
-* [ronin-masscan] - [WIP] A Ruby library for working with masscan.
-* [ronin-recon] - [WIP] A micro-framework and tool for performing
-  reconnaissance.
+* [ronin-nmap] - A Ruby library for working with nmap.
+* [ronin-masscan] - A Ruby library for working with masscan.
+* [ronin-recon] - A micro-framework and tool for performing reconnaissance.
 * [docker] - `Dockerfile`s for the `ronin` docker images.
 * [scripts] - The `ronin-install.sh` installer script and the `ronin-dev.sh`
   development environment setup script.
