@@ -20,7 +20,8 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 [payloads][ronin-payloads], [running exploits][ronin-exploits-synopsis],
 [developing new exploits][ronin-exploits-examples],
 [managing local databases][ronin-db-synopsis],
-[fuzzing data][ronin-fuzzer], and much more.
+[fuzzing data][ronin-fuzzer],
+[performing recon][ronin-recon-synopsis], and much more.
 
 ## Repositories
 
