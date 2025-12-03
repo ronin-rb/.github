@@ -48,7 +48,7 @@ HTTP, [scanning for web vulnerabilities][ronin-vulns-synopsis],
 * [ronin-web-server] - A custom Ruby web server based on Sinatra.
 * [ronin-web-spider] - A collection of common web spidering routines.
 * [ronin-web-user_agents] - Generates random but realistic User-Agent strings.
-* [ronin-code-asm] - A Ruby DSL for crafting Assmebly programs and Shellcode.
+* [ronin-code-asm] - A Ruby DSL for crafting Assembly programs and Shellcode.
 * [ronin-code-sql] - A Ruby DSL for crafting SQL Injections.
 * [ronin-vulns] - Tests URLs for Local File Inclusion (LFI),
   Remote File Inclusion (RFI), SQL injection (SQLi), Cross Site Scripting (XSS),
